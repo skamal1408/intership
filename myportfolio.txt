@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>SV</title>
+        <link rel = "icon" href="💼">
+       
+    </head>
+    <body bgcolor = "black" style = "color : white;">
+        <center>
+        <h1>Welcome to my portfolio 🗃️  </h1>
+        <p>I pay my great grattitute to those who all lend me their time to view my portfolio</p>
+        </center>
+        <hr>
+        <p> Hi, this KAMALESHWARAN a recent Tech gradudate, how always has more enthusiast about web development
+            sorry guy's, since this my first web development project, Kindely consider my apology guy's 😁.
+            .i will always be greatfull for i have </p>
+        <h1>
+            About my Schooling 🏫 </h1>
+            <p>
+                To know about my scooling, we all should head back to 2005, yeha that's me as a kinder garden student
+                alway's give extream exelence to my studies. Later 2010 my parents thought about my change of study 
+                to boost my carrer to some wat hight level.
+            
+                
+                    <ul><li>I completed my schooling in Sri Sankara Vidhyalaya Matriculation Higher Secondary School till my 3rd grade.</li>
+                        <li>Later in 2010 i been changed to Alwin Memorial Public School (Centrel Board of Secondary Eduction) till my 10th grade i have pursuing my education here
+                            </li>
+                        <li>Then i completed my higher Secondary in Sai Ram Matriculation Higher Secondary school (Tamil Nadu state board) till 2019 </li>
+                    </ul>
+                   
+
+                
+
+                </p>
+                
+                
+            </p>
+        <h1>
+            About my College 🎓   
+        </h1>
+        <p>
+            This my Next level of life where i came to know about many things. The place learn about many things.
+            after my schooling i entered into my collage in 2019
+
+            I have done my UG program in Panimalar Institute of Technology till 2023 
+
+
+
+        </p>
+        <hr>
+        <p>
+            I always be greatful for waht i have. Since this is my first portfolio i may be wrong at any point. 
+            So please consider my error and apology. 
+
+
+            To know about me, i am a  average student at studies but have more intrest to study many thing.
+
+            My own kind of intrest is to become a good and legible full-stack developer.
+
+
+
+        </p>
+        <hr>
+        <h1>
+            About my certification 📜
+
+        </h1>
+        <p>I am person who always have more enthusiast about coding but sitll i am not a wellwisher in that 😁
+            
+        </p>
+        <p>
+            <ul>
+                <li>I pursuing my Python certification course</li>
+                <li>I also pursing my JAVA certification course</li>
+
+                  
+                    
+                
+                
+            </ul>
+        
+                
+           
+             
+        </p>
+        <p>
+            Since i want be a good Python backed developer, I carry my more intrest over learning about Python
+            I also have good knowledge Cloud. I also planed about of doing my AWS certification exam after gained my complete knowledge about cloud
+
+        </p>
+        <hr>
+        <h1>About my Major and Minor Project</h1>
+        <ol>
+            <li>Event Management System.</li>
+            <ul>
+                <li>To show my intrest over the web development me and my team members Developed the project the event management system</li>
+            </ul>
+            <h2>Tools Used</h2>
+            <ul>
+                     <li>Code Editor : VS CODE</li>
+                     <li>Frame work : Bootstrap & React JS</li>
+            </ul>
+                <p> Description: By this the student among the various college they can see the list of events that condected in other college .We the project was developed by using the very basic HTML and CSS to develop a dynamic web page as frontend
+                    and backend was developed by using the JAVA
+                </p>
+        </ol>        
+
+            
+            
+            
+        
+        <ol>
+            <li>Skill based job recommendation system.</li>
+            <ul>
+                <li>This is also a web development project</li>
+
+            </ul>
+            <h2>Tools used</h2>
+            <ul>
+                <li>Code Editor: Vscode</li>
+                <li>Frame Work: Bootstrap & Flask</li>
+
+            </ul>
+            <p>Description: The goal of this website is to give a proper job recommendation to the candidate to show and improve their skills.
+                So the frontend was developed by using HTML, CSS and Backend was developed ny using the Python  </p>
+        </ol>
+
+        <h1> My Project website :</h1>
+        <p>  To know my project works. Please go below</p>
+        <center>
+        <iframe src = "https://job-recommender.onrender.com/"width = 1000px,></iframe>
+        </center>
+        <p>Those who see this portfolio,
+            Guy's you can able to understand how my knowledge is about the web development, If there is any mistake that you have been found. Kindely come ahead to correct my mistake.
+            You can connect me throught Linkedin and Facebook. 
+            I will shae my Linkedin, Facebook and Github ID below. 
+
+        </p>
+        <P>Linkedin:  <a href = "https://www.linkedin.com/feed/">Linkedin</a></P>
+        <p>Facebook:  <a href = "https://www.facebook.com/profile.php?id=100006238666445">Facebook</a></p>
+        <p>Github:    <a href = "https://github.com/skamal1408">Github</a></p>
+
+
+        
+    </body>
+</html>
